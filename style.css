@@ -1,0 +1,421 @@
+.main {
+    /* border: 2px solid red; */
+    background-color: black;
+    margin: auto;
+    justify-content: center;
+    width: 80%;
+}
+
+.full {
+    /* border: 2px solid red; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+.abc {
+    margin-inline-start: 20px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 90%;
+    /* border: 2px solid red; */
+    justify-content: space-evenly;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: aliceblue;
+    align-items: center;
+}
+
+.image {
+    /* border: 2px solid red; */
+    justify-content: center;
+    align-items: center;
+    /* border-radius: 50%; */
+    width: 44%;
+    display: flex;
+    margin-left: 340px;
+}
+
+.image img {
+    margin-left: 20%;
+    /* border: 2px solid red; */
+
+
+}
+
+.content {
+    /* border: 2px solid red; */
+    height: 600px;
+    margin-left: 10px;
+
+    span {
+        color: red;
+    }
+
+    color: aliceblue;
+
+    h4 {
+        font-size: 40px;
+    }
+
+    h1 {
+        font-size: 60px;
+    }
+
+    h3 {
+        font-size: 50px;
+    }
+
+    p {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 50px;
+    }
+}
+
+.btns button {
+
+    color: aliceblue;
+    background-color: black;
+    border-radius: 80px;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+
+}
+
+.btns {
+    display: flex;
+    margin-left: 37%;
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+    width: 25%;
+    justify-content: center;
+
+}
+
+.fullone {
+    display: flex;
+    /* border: 2px solid red; */
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left {
+    /* border: 2px solid red; */
+    color: aliceblue;
+    width: 50%;
+
+    h1 {
+        font-size: 40px;
+        margin-left: 20px;
+    }
+
+    p {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+
+}
+
+.right img {
+    /* border: 2px solid red; */
+    width: 100%;
+    margin-left: 160px;
+
+}
+
+.nav button {
+    /* border: 2px solid red; */
+    color: aliceblue;
+    background-color: black;
+    border-radius: 80px;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+
+
+}
+
+.nav {
+    /* border: 2px solid red; */
+    /* */
+    /* width: 80%; */
+    justify-content: space-evenly;
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.imageone {
+    /* border: 2px solid red; */
+    display: flex;
+
+}
+
+.Rightone img {
+    /* border: 2px solid red; */
+    flex-direction: column;
+    display: flex;
+    margin-left: 250px;
+
+}
+
+.leftone h2,
+p {
+    color: aliceblue;
+}
+
+.Rightone {
+    /* border: 2px solid red; */
+    width: 40%;
+
+}
+
+.leftone {
+    /* border: 2px solid red; */
+    width: 30%;
+    margin-right: 30px;
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.def {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+/* .fulltwo{
+    border: 2px solid red; */
+
+.line {
+    display: flex;
+    /* border: 2px solid blue; */
+}
+
+.line1 {
+    border: 2px solid blueviolet;
+    background-color: blueviolet;
+    width: 40%;
+    height: 6px;
+    margin-left: 60px;
+
+}
+
+.line2 {
+    border: 2px solid yellow;
+    background-color: yellow;
+    width: 20%;
+    height: 6px;
+}
+
+    h1 {
+        color: white;
+        margin-inline-start: 55%;
+
+    }
+
+
+.fullfour button {
+    width: 200px;
+    border-radius: 50px;
+    height: 50px;
+    color: aliceblue;
+    background-color: blue;
+    align-items: center;
+
+}
+
+.fullfour {
+    /* border: 2px solid red; */
+    text-align: center;
+}
+
+.image75 {
+    /* border: 2px solid red; */
+    text-align: center;
+    /* width: 80px; */
+    display: flex;
+    justify-content: center;
+}
+
+/* .image75 img{
+    width: 30px;
+} */
+.doll1 {
+    width: 800px;
+    height: 500px;
+}
+
+.doll2 {
+    /* border: 2px solid red; */
+    width: 20px;
+    height: 30px;
+    margin-top: 180px;
+}
+
+.doll3 {
+    /* border: 2px solid red; */
+    width: 20px;
+    height: 30px;
+    margin-top: 180px;
+}
+
+.lineone {
+    display: flex;
+    /* border: 2px solid blue; */
+}
+
+.line3 {
+    border: 2px solid blueviolet;
+    background-color: blueviolet;
+    width: 40%;
+    height: 6px;
+    margin-left: 60px;
+
+}
+
+.line4 {
+    border: 2px solid yellow;
+    background-color: yellow;
+    width: 20%;
+    height: 6px;
+}
+
+h1 {
+    color: white;
+    margin-inline-start: 50%;
+
+}
+
+.fullsix {
+    border: 2px solid red;
+    height: 400px;
+    padding: 40px;
+    text-align: center;
+
+
+}
+
+.linetwo {
+    display: flex;
+    /* border: 2px solid blue; */
+}
+
+.line5 {
+    border: 2px solid blueviolet;
+    background-color: blueviolet;
+    width: 40%;
+    height: 6px;
+    margin-left: 60px;
+
+}
+
+.line6 {
+    border: 2px solid yellow;
+    background-color: yellow;
+    width: 20%;
+    height: 6px;
+}
+
+h1 {
+    color: white;
+    margin-inline-start: 55%;
+
+}
+
+.fulleight {
+    /* border: 2px solid red; */
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+
+
+}
+
+.messagefield2 {
+    width: 190px;
+    height: 90px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.messagefield1 {
+    width: 190px;
+    height: 50px;
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.messagefield {
+    width: 190px;
+    height: 50px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.content1 {
+    display: flex;
+    /* border: 2px solid red; */
+    width: 50%;
+    text-align: center;
+    margin-top: 70px;
+
+}
+
+.content1 button {
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.image8 {
+    width: 30%;
+    /* border: 2px solid red; */
+
+}
+
+.image8 img {
+    width: 30%;
+    height: 400px;
+    margin-left: 150px;
+
+}
+
+.lineone {
+    display: flex;
+    /* border: 2px solid blue; */
+}
+
+.line7 {
+    border: 2px solid blueviolet;
+    background-color: blueviolet;
+    width: 40%;
+    height: 6px;
+    margin-left: 60px;
+
+}
+
+.line8 {
+    border: 2px solid yellow;
+    background-color: yellow;
+    width: 20%;
+    height: 6px;
+}
+
+h1 {
+    color: white;
+    margin-inline-start: 5%;
+}
